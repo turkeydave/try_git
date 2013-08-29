@@ -1,5 +1,5 @@
-
-ljasdf	#! /bin/bash
+dude
+	#! /bin/bash
 
 cd /Users/davidkilmoyer/code/py-api/asv_api
 #cd asv_api
