@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 dude
 	#! /bin/bash
+=======
+
+ljasdf	#! /bin/bash
+>>>>>>> change1, test2 branch
 
 cd /Users/davidkilmoyer/code/py-api/asv_api
 #cd asv_api
