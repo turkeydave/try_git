@@ -1,7 +1,10 @@
 dude
 start again
 ;kja;lsdjkflkjsdf
+<<<<<<< HEAD
 lkjasdlfkjl;aksjdf
+=======
+>>>>>>> branch_3
 	#! /bin/bash
 
 cd /Users/davidkilmoyer/code/py-api/asv_api

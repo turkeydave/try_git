@@ -5,5 +5,9 @@ google
 l;kjas;dlfkjasl;kdfjalskdf
 
 dude
+<<<<<<< HEAD
 
 and we have some more text here yo ....d
+=======
+dude again
+>>>>>>> branch_3
